@@ -1,0 +1,10 @@
+c:\users\karl-henrik\documents\visual studio 2013\Projects\LeapMotionDemo\LeapMotionDemo\bin\Debug\LeapMotionDemo.exe.config
+c:\users\karl-henrik\documents\visual studio 2013\Projects\LeapMotionDemo\LeapMotionDemo\bin\Debug\LeapMotionDemo.exe
+c:\users\karl-henrik\documents\visual studio 2013\Projects\LeapMotionDemo\LeapMotionDemo\bin\Debug\LeapMotionDemo.pdb
+c:\users\karl-henrik\documents\visual studio 2013\Projects\LeapMotionDemo\LeapMotionDemo\bin\Debug\LeapCSharp.NET4.0.dll
+c:\users\karl-henrik\documents\visual studio 2013\Projects\LeapMotionDemo\LeapMotionDemo\obj\Debug\LeapMotionDemo.csprojResolveAssemblyReference.cache
+c:\users\karl-henrik\documents\visual studio 2013\Projects\LeapMotionDemo\LeapMotionDemo\obj\Debug\LeapMotionDemo.exe
+c:\users\karl-henrik\documents\visual studio 2013\Projects\LeapMotionDemo\LeapMotionDemo\obj\Debug\LeapMotionDemo.pdb
+C:\Source\DemoApps\LeapMotionDemo\LeapMotionDemo\bin\Debug\LeapMotionDemo.exe.config
+C:\Source\DemoApps\LeapMotionDemo\LeapMotionDemo\obj\Debug\LeapMotionDemo.exe
+C:\Source\DemoApps\LeapMotionDemo\LeapMotionDemo\obj\Debug\LeapMotionDemo.pdb
